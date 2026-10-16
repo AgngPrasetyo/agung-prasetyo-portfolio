@@ -1,6 +1,6 @@
 # Agung Prasetyo | Developer Portfolio
 
-Welcome to my portfolio repository. I am an Informatics Engineering professional with hands-on experience in web development, API integration, data analysis, and AI-powered applications. I enjoy turning technical requirements and data into practical, user-oriented software.
+Welcome to my portfolio repository. I am an Informatics Engineering graduate with hands-on experience in web development, API integration, data analysis, and AI-powered applications. I enjoy turning technical requirements and data into practical, user-oriented software.
 
 My interests include **web application development, applied AI, machine learning, and data-driven solutions**. I value analytical thinking, attention to detail, and continuous learning.
 
